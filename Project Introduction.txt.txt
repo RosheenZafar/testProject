@@ -1,0 +1,12 @@
+Rosheen Zafar
+100368216
+
+
+Project Suggestion and Goals 
+For my project, I have thought of creating an application called EasyDoc. This application will make it easier to book doctor's appointments and keep track of all previous appointments in one convenient place. It will use GPS location to find the best physicians closest to the user and will also allow the user to attend appointments over video call, in the case that the user is not able to physically attend the appointment. Through this application, the user will also be able to manage their prescriptions and refill prescriptions from their nearest pharmacy. 
+
+This application will allow the user to enter in their health insurance plan information which will make it easier to know which  doctor's and services are covered through their health plan and which ones are not.  
+
+The goals of this application are to make it easier and more efficient for the user to manage their health information including prescriptions, doctor's appointments, and insurance plan coverage. All this information will be conveniently organized into the application. 
+
+This application will make healthcare more accessible for all the users and will make it easier for users to manage their health. 
